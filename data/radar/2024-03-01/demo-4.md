@@ -1,6 +1,6 @@
 ---
 title: "Demo 4"
-ring: trial
+ring: support
 quadrant: languages-and-frameworks
 tags: [new]
 ---

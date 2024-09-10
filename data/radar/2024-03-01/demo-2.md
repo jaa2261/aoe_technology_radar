@@ -1,6 +1,6 @@
 ---
 title: "Demo 2"
-ring: adopt
+ring: invest
 quadrant: platforms-and-operations
 tags: [coding, backend]
 ---

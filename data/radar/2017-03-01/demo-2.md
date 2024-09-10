@@ -1,6 +1,6 @@
 ---
 title: "Demo 2"
-ring: trial
+ring: support
 quadrant: platforms-and-operations
 tags: [coding]
 ---

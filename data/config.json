@@ -1,3 +1,38 @@
 {
-  "basePath": "/techradar"
+  "basePath": "/techradar",
+  "logoFile": "BJSS-Logo-White-RGB.svg",
+  "rings": [
+    {
+      "id": "invest",
+      "title": "Invest",
+      "description": "",
+      "color": "#588157",
+      "radius": 0.5,
+      "strokeWidth": 5
+    },
+    {
+      "id": "support",
+      "title": "Support",
+      "description": "",
+      "color": "#457b9d",
+      "radius": 0.69,
+      "strokeWidth": 3
+    },
+    {
+      "id": "assess",
+      "title": "Assess",
+      "description": "",
+      "color": "#bc6c25",
+      "radius": 0.85,
+      "strokeWidth": 2
+    },
+    {
+      "id": "drop",
+      "title": "Drop",
+      "description": "",
+      "color": "#d62828",
+      "radius": 1,
+      "strokeWidth": 0.75
+    }
+  ]
 }

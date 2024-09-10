@@ -1,6 +1,6 @@
 ---
 title: "Demo 3"
-ring: hold
+ring: drop
 quadrant: tools
 tags: [coding, frontend]
 ---
